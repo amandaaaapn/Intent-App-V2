@@ -200,7 +200,7 @@ Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
 
    e. Selanjutnya kita akan mendapatkan tampilan design seperti ini.
    
-![design](https://github.com/amandaaaapn/Intent-App-V2/assets/115678845/c9aad714-61d3-4c7d-bd11-1f58522830c0)
+![Screenshot 2023-11-26 094521](https://github.com/amandaaaapn/Intent-App-V2/assets/115678845/391519c1-1849-4431-a606-27721435853d)
 
 7. Tampilan design activity_main.xml sudah selesai.
 
